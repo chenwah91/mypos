@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827208232474",
+    "project_id": "xemyposnotification",
+    "storage_bucket": "xemyposnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827208232474:android:fc1de93b11561763886ba3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827208232474-qfbt6d4bl659loh83ns8gdp577aia6g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARJfYjlTE_j0q62tDK3e1_gwyK5ZK8Zrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827208232474-qfbt6d4bl659loh83ns8gdp577aia6g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,181 @@
+{
+  "Setting" : "Setting",
+  "ChangePassword" : "Change Password",
+  "Logout": "Logout",
+  "General": "General",
+  "Search Bills": "Search Bills",
+  "Signin into your account": "Signin into your account",
+  "User Name" : "用户名",
+  "Enter your user name": "Enter your user name",
+  "Passowrd" : "Password",
+  "Enter your Password": "Enter your Password",
+  "Forget your password?" : "Forget your password?",
+  "Sign In" : "Sign In",
+  "Don\\'t have an account? Create" : "Don't have an account? Create",
+  "Forgot Password?": "Forget Password?",
+  "Enter the email address associated with your account." : "Enter the email address associated with your account.",
+  "We will email you a verification code to check your authenticity.": "We will email you a verification code to check your authenticity.",
+  "Password Incorrect": "Password Incorrect",
+  "Account no found" : "Account no found",
+  "Email can't be empty" : "Email can't be empty",
+  "Send": "Send",
+  "Remember your password?": "Remember your password?",
+  "Login": "Login",
+  "Create Account": "Create Account",
+  "User Name Cant Empty.": "User Name Cant Empty.",
+  "User Name Too Short": "User Name Too Short",
+  "Enter User Name.": "Enter User Name.",
+  "Login ID": "Login ID",
+  "Login ID Cant Empty.": "Login ID Cant Empty.",
+  "Login ID Too Short": "Login ID Too Short",
+  "Enter Contact." : "Enter Contact.",
+  "Password Cant Empty." : "Password Cant Empty.",
+  "Password Too Short": "Password Too Short",
+  "Email Account": "Email Account",
+  "Please enter a valid email address": "Please enter a valid email address",
+  "Enter a valid email address": "Enter a valid email address",
+  "Email is invalid, must contain @": "Email is invalid, must contain @",
+  "Email is invalid, must contain.": "Email is invalid, must contain.",
+  "Email is invalid, must contain .": "Email is invalid, must contain.",
+  "Enter Email": "Enter Email",
+  "Contact": "Contact",
+  "Contact Cant Empty.": "Contact Cant Empty.",
+  "Your Account has been create": "Your Account has been create",
+  "Can\\'t Connect Server...": "Can\\'t Connect Server...",
+  "Verification" : "Verification",
+  "Enter the verification code we just sent you on your email address.": "Enter the verification code we just sent you on your email address.",
+  "If you didn't receive a code!": "If you didn't receive a code!",
+  "Resend": "Resend",
+  "Unsuccessful": "Unsuccessful",
+  "Please try again.": "Please try again.",
+  "Try Again": "Try Again",
+  "Verify":"Verify",
+  "User Information": "User Information",
+  "Address": "Address",
+  "Email": "Email",
+  "Phone": "Phone",
+  "Change Detail": "Change Detail",
+  "Language":"Language",
+  "Bill Info": "Bill Info",
+  "Bill Detail": "Bill Detail",
+  "ID": "Id",
+  "Type":"Type",
+  "Date" : "Date",
+  "Term month": "Term month",
+  "Status": "Status",
+  "Amount": "Amount",
+  "Payment Record": "Payment Record",
+  "Camera": "Camera",
+  "No File Select": "No File Select",
+  "Upload Receipt cancel" : "Upload Receipt cancel",
+  "Gallery":"Gallery",
+  "Upload Payment": "Upload Payment",
+  "View PDF": "View PDF",
+  "- No Record Found -" : "- No Record Found -",
+  "Change Password": "Change Password",
+  "Old Password": "Old Password 旧密码",
+  "Old Password Cant Empty.": "Old Password Cant Empty.",
+  "New Password": "New Password",
+  "New Password Cant Empty.": "New Password Cant Empty.",
+  "Password Length must more then 6 digit or alphanumeric.": "Password Length must more then 6 digit or alphanumeric.",
+  "Failed To Update": "Failed To Update",
+  "Failed To Update ( Account No Found )": "Failed To Update ( Account No Found )",
+  "Update Success": "Update Success",
+  "Your password has been updated.": "Your password has been updated.",
+  "Unknow Error": "Unknow Error",
+  "Update failed": "Update failed",
+  "Update Password": "Update Password",
+  "Loading pages...": "Loading pages...",
+  "Back": "Back",
+  "Loading": "Loading",
+  "last update :": "last update :",
+  "Update Infomation": "Update Infomation",
+  "New User Name.": "New User Name.",
+  "New Email": "New Email",
+  "input Cant Empty.": "input Cant Empty.",
+  "New Address 1": "New Address 1",
+  "Address 2":"Address 2",
+  "Pos Code": "Pos Code",
+  "New Pos Code": "New Pos Code",
+  "City": "City",
+  "New City": "New City",
+  "State": "State",
+  "New State": "New State",
+  "Country": "Country",
+  "New Country": "New Country",
+  "Update Completed": "Update Completed",
+  "Submit": "Submit",
+  "Success to update payment receipt.": "Success to update payment receipt.",
+  "Payment Receipt uploaded.": "Payment Receipt uploaded.",
+  "Data Updating...": "Data Updating...",
+  "Please waiting....": "Please waiting....",
+  "Home": "Home",
+  "Product": "Product",
+  "Billing": "Billing",
+  "Profile": "Profile",
+  "Account": "Account",
+  "New Contact": "New Contact",
+  "New Address 2": "New Address 2"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
