@@ -19,7 +19,15 @@ class CustomerData {
   final String u_loginid;
   final String forgot_passord ;
 
-  CustomerData(this.u_username, this.ca_email, this.ca_phone, this.user_id, this.ca_name, this.ca_address1, this.ca_address2, this.ca_pos, this.ca_city, this.ca_state, this.ca_country, this.u_lastupdate, this.ca_status, this.u_loginid, this.forgot_passord);
+  final String ca_company_name ;
+  final String ca_company_reg ;
+  final String ca_company_gst ;
+  final String ca_company_sst ;
+  final String ca_company_email ;
+  final String ca_company_contact ;
+
+
+  CustomerData(this.u_username, this.ca_email, this.ca_phone, this.user_id, this.ca_name, this.ca_address1, this.ca_address2, this.ca_pos, this.ca_city, this.ca_state, this.ca_country, this.u_lastupdate, this.ca_status, this.u_loginid, this.forgot_passord, this.ca_company_name, this.ca_company_reg, this.ca_company_gst, this.ca_company_sst, this.ca_company_email, this.ca_company_contact);
 
 
 //  CustomerData(this.name, this.email,this.id,this.password);
@@ -39,7 +47,14 @@ class CustomerData {
         u_lastupdate = json['u_lastupdate'],
         ca_status = json['ca_status'],
         forgot_passord = json['forgot_passord'],
-        u_loginid = json['u_loginid'];
+        u_loginid = json['u_loginid'],
+        ca_company_name = json['ca_company_name'],
+        ca_company_reg = json['ca_company_reg'],
+        ca_company_gst = json['ca_company_gst'],
+        ca_company_sst = json['ca_company_sst'],
+        ca_company_email = json['ca_company_email'],
+        ca_company_contact = json['ca_company_contact'];
+
 
   Map<String, dynamic> toJson() => {
     'u_username': u_username,
@@ -57,6 +72,16 @@ class CustomerData {
     'ca_status': ca_status,
     'u_loginid': u_loginid,
     'forgot_passord':forgot_passord,
+    'ca_company_name':ca_company_name,
+    'ca_company_reg':ca_company_reg,
+    'ca_company_gst':ca_company_gst,
+    'ca_company_sst':ca_company_sst,
+    'ca_company_email':ca_company_email,
+    'ca_company_contact':ca_company_contact,
+
+
+
+
   };
 
   Map<String,dynamic> toMap() {
@@ -76,6 +101,12 @@ class CustomerData {
     map["u_loginid"] = u_loginid;
     map["ca_pos"] = ca_pos;
     map["forgot_passord"] = forgot_passord;
+    map["ca_company_name"] = ca_company_name;
+    map["ca_company_reg"] = ca_company_reg;
+    map["ca_company_gst"] = ca_company_gst;
+    map["ca_company_sst"] = ca_company_sst;
+    map["ca_company_email"] = ca_company_email;
+    map["ca_company_contact"] = ca_company_contact;
     // Add all other fields
     return map;
   }
